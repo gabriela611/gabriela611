@@ -1,10 +1,10 @@
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=%230000FF&size=25&center=true&vCenter=true&width=500&lines=Welcome+to+my+profile!" alt="Typing SVG">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=%23ff47c6&size=25&center=true&vCenter=true&width=500&lines=Hi ! Welcome+to+my+profile" alt="Typing SVG">
   </a>
 </div>
 
-## Hi ! 
+
 ☆ Systems engineering student @ EAFIT University
 ☆ Software development enjoyer
 ☆ Exploring new stuff to learn
