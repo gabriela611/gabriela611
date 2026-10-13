@@ -10,9 +10,25 @@
 ☆ Software development enjoyer  
 ☆ Currently learning AI agents & Android Apps development  
 
+<a href="https://github-stats-extended.vercel.app/api?username=gabriela611">
+  <picture>
+    <source
+      srcset="https://github-stats-extended.vercel.app/api?username=gabriela611&theme=bear"
+      media="(prefers-color-scheme: dark)"
+    />
+    <img height="200" align="center" src="https://github-stats-extended.vercel.app/api?username=gabriela611&theme=bear" />
+  </picture>
+</a>
+<a href="https://github-stats-extended.vercel.app/api/top-langs?username=gabriela611&layout=compact&langs_count=8&card_width=320">
+  <picture>
+    <source
+      srcset="https://github-stats-extended.vercel.app/api/top-langs?username=gabriela611&layout=compact&langs_count=8&card_width=320&theme=bear"
+      media="(prefers-color-scheme: dark)"
+    />
+    <img height="200" align="center" src="https://github-stats-extended.vercel.app/api/top-langs?username=gabriela611&layout=compact&langs_count=8&card_width=320&theme=bear" />
+  </picture>
+</a>
 
-
-[![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=gabriela611&show_icons=true&theme=bear&layout=compact)](https://github.com/stats-organization/github-stats-extended)
 
 <div align="center">
   <h3>Connect with me!</h3>
