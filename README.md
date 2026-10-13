@@ -10,7 +10,9 @@
 ☆ Software development enjoyer  
 ☆ Currently learning AI agents & Android Apps development  
 
-[![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=gabriela611)](https://github.com/stats-organization/github-stats-extended)
+
+
+[![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=gabriela611&show_icons=true&theme=bear&layout=compact)](https://github.com/stats-organization/github-stats-extended)
 
 <div align="center">
   <h3>Connect with me!</h3>
