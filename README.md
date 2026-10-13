@@ -9,7 +9,8 @@
 ☆ Systems engineering student at EAFIT University  
 ☆ Software development enjoyer  
 ☆ Currently learning AI agents & Android Apps development  
-  
+
+[![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=gabriela611)](https://github.com/stats-organization/github-stats-extended)
 
 <div align="center">
   <h3>Connect with me!</h3>
